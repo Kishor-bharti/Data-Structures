@@ -6,10 +6,12 @@
 - queue ✅ {6 operations} (Types: priority_queue✅, deque✅)
 - deque ✅ {8 operations}
 - priority_queue ✅ {5 operations}
-- set (multiset , unordered_map)
-- unordered_set
-- map (multimap) // hashmap?
-- unordered_map // similar to hashset in java? NO! unordered_set is equivalent to hashset in java
+- set ✅ {9 operations (need to rem)} (Types: multiset , unordered_set✅)
+- multiset
+- unordered_set ✅ {7 operations} (it is similar to hashset in java)
+- map 
+- multimap
+- unordered_map 
 - tuple
 - pair
 

@@ -2,12 +2,14 @@
     What is std::priority_queue?    
        - It’s a max-heap by default in C++, meaning the largest element is always at the top. Internally, it uses a heap structure built on top of a vector.
 */
-#include<bits/stdc++.h>
+// Required imports
+#include<iostream>
+#include<queue>
 using namespace std;
 
 int main(){
     // Max-Heap (default)
-    priority_queue<int> pq;
+    priority_queue<int> pq; //Find more ways to declare!
 
     pq.push(10);
     pq.push(5);

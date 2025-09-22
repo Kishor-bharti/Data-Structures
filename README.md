@@ -3,9 +3,9 @@
 - String (additional)
 - vector ✅ {12 operations}
 - stack ✅ {5 operations}
-- queue ✅ {6 operations} (Types: priority_queue, deque✅)
+- queue ✅ {6 operations} (Types: priority_queue✅, deque✅)
 - deque ✅ {8 operations}
-- priority_queue
+- priority_queue ✅ {5 operations}
 - set (multiset , unordered_map)
 - unordered_set
 - map (multimap) // hashmap?

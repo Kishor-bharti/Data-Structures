@@ -33,6 +33,9 @@ int main(){
     cout << "\nAfter erasing 5: ";
     for (int x : s) cout << x << " "; // Output: 10 20
 
+    // we cannot iterate it with indexing!
+    // ordered only means the elements are in sorted order here!
+
     // Operations
 /*
     1. insert(x) // Inserts element x in the set.

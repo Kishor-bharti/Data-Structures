@@ -11,7 +11,7 @@
 - unordered_set ✅ {7 operations} (it is similar to hashset in java)
 - map ✅ {14 operations} (similar to unordered_map, it just ordered!)
 - multimap
-- unordered_map 
+- unordered_map ✅ {14 operations}
 - tuple
 - pair
 

@@ -6,6 +6,7 @@
 - queue ✅ {6 operations} (Types: priority_queue✅, deque✅)
 - deque ✅ {8 operations}
 - priority_queue ✅ {5 operations}
+- Linked List
 - set ✅ {9 operations (need to rem)} (Types: multiset , unordered_set✅)
 - multiset
 - unordered_set ✅ {7 operations} (it is similar to hashset in java)

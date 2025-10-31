@@ -1,6 +1,6 @@
 # Core STL Containers (Standard Template Library) 
 - Array (additional)
-- String (additional)
+- String (additional) ✅ {13 operations}
 - vector ✅ {12 operations}
 - stack ✅ {5 operations}
 - queue ✅ {6 operations} (Types: priority_queue✅, deque✅)

@@ -5,7 +5,7 @@
 // useful math functions---->
 /*
     1. pow(base, exponent)
-    2. INT_MAX, MIN
+    2. INT_MAX, INT_MIN
 */
 // ------------------------------------------------------------------------
 #include <cmath>  // required header

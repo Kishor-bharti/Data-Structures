@@ -1,20 +1,20 @@
 # Core STL Containers (Standard Template Library) 
-- Array (additional)
+- Array (additional) ❗❗
 - String (additional) ✅ {13 operations}
 - vector ✅ {12 operations}
 - stack ✅ {5 operations}
 - queue ✅ {6 operations} (Types: priority_queue✅, deque✅)
 - deque ✅ {8 operations}
 - priority_queue ✅ {5 operations}
-- Linked List
+- Linked List ✅ {16 operations}
 - set ✅ {9 operations (need to rem)} (Types: multiset , unordered_set✅)
-- multiset
+- multiset ❗❗
 - unordered_set ✅ {7 operations} (it is similar to hashset in java)
 - map ✅ {14 operations} (similar to unordered_map, it just ordered!)
-- multimap
+- multimap ❗❗
 - unordered_map ✅ {14 operations}
-- tuple
-- pair
+- tuple ✅ {4 operations}
+- pair ✅ {4 operations}
 
 # <bits/stdc++.h> includes:
 

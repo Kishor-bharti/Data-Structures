@@ -2,10 +2,11 @@
 <!-- TO avoid that "WHAT WAS IT?" questions/confusions while facing interview/coding questions -->
 
 ```cpp
-// useful math functions---->
+// useful functions---->
 /*
     1. pow(base, exponent)
     2. INT_MAX, INT_MIN
+    3. swap(arr[i], arr[j]);
 */
 // ------------------------------------------------------------------------
 #include <cmath>  // required header
